@@ -42,6 +42,8 @@ Testing. Outputs has choices for the terminal or a text file. Notes explains how
 works. Also on the Menu line is a choice of Styles (colors), and then URLs for DistroWatch and the
 linux distro Forum, and finally License information. Make sure you read the Notes page.
 
+P.S. The LECC.bin file is to big to upload. Best to run the .py & .ui files in PyCharm.
+
     
 
 
